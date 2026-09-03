@@ -16,7 +16,7 @@ onnx
 onnx-graphsurgeon==0.6.1
 onnxruntime
 onnxsim
-opencv-python==4.5.5.64
+opencv-python==4.8.1.78
 refile
 setuptools<81
 tensorrt-cu13-bindings==11.1.0.106
