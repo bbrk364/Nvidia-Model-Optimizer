@@ -18,6 +18,6 @@ onnxruntime
 onnxsim
 opencv-python==4.5.5.64
 refile
-setuptools<81
+setuptools<85
 tensorrt-cu13-bindings==11.1.0.106
 yapf==0.32.0
